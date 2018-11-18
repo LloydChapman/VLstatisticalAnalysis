@@ -19,4 +19,4 @@ Installation: STATA, which requires a user license, must be installed to run the
 
 License: GNU Affero General Public License v3.0 (http://www.gnu.org/licenses/agpl-3.0.txt)
 
-References: [1] Jervis S, Chapman LAC, et al. Variations in visceral leishmaniasis burden, mortality and the pathway to care within Bihar, India. Parasites & Vectors 2017; 10(1):601.
+References: [1] Jervis S, Chapman LAC, et al. Variations in visceral leishmaniasis burden, mortality and the pathway to care within Bihar, India. Parasites & Vectors 2017; 10(1):601. https://doi.org/10.1186/s13071-017-2530-9
